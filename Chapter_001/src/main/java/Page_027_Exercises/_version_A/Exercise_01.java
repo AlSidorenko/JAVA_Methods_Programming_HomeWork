@@ -22,4 +22,8 @@ public class Exercise_01 {
 
         System.out.printf("Hello! %s.", name);
     }
+
+    public static void helloAlec() {
+        System.out.print("Hello Alec!");
+    }
 }
